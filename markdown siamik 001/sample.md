@@ -24,12 +24,12 @@ untuk data yang kita gunakan yaitu antara lain:
 
 ## metode yang diterapkan
 untuk metode yang digunakan yaitu
-* untuk sorting nama kita menggunakan metode
-* untuk search nama kita menggunakan metode
-* untuk sorting npm kita menggunakan metode
-* untuk searching npm kita menggunakan metode
-* untuk sorting matkul kita menggunakan metode
-* untuk searching matkul kita menggunakan metode
+* untuk sorting nama kita menggunakan metode insertion
+* untuk search nama kita menggunakan metode linear
+* untuk sorting npm kita menggunakan metode selection
+* untuk searching npm kita menggunakan metode interpolation
+* untuk sorting matkul kita menggunakan metode bubble sort
+* untuk searching matkul kita menggunakan metode linear search
 
 ## list menu yang ditawarkan
 yang diwarkan dari program kita yaitu:
@@ -38,9 +38,9 @@ pada tampilan awal program ada 4 pilihan,
 * input, berguna untuk menginput data sebanyak user mau
 * menampilkan, menampilkan data yang sudah diinput
 * cari data, pada fitur ini menawarkan 3 fitur
-    * pertama, mencari berdasarkan nama, di fitur ini menawarkan pencarian nama menggunakan metode..., dan sorting dengan metode... secara ascending dan descending
-    *  kedua, mencari berdasarkan npm, di fitur ini menawarkan pencarian npm menggunakan metode..., dan sorting dengan metode... secara ascending dan descending
-    *   pertama, mencari berdasarkan matkul, di fitur ini menawarkan pencarian matkul dari matkul pertama hingga akhir menggunakan metode..., dan sorting dengan metode... secara ascending dan descending
+    * pertama, mencari berdasarkan nama, di fitur ini menawarkan pencarian nama menggunakan metode linear search, dan sorting dengan metode.insertion secara ascending dan descending
+  * kedua, mencari berdasarkan npm, di fitur ini menawarkan pencarian npm menggunakan metode interpolation, dan sorting dengan metode selection sort secara ascending dan descending
+  * pertama, mencari berdasarkan matkul, di fitur ini menawarkan pencarian matkul dari matkul pertama hingga akhir menggunakan metode linear search, dan sorting dengan metode.bubble sort secara ascending dan descending
 
 ## cara penggunaan aplikasi
 saat program di run, maka keluar tampilan sebagai berikut
